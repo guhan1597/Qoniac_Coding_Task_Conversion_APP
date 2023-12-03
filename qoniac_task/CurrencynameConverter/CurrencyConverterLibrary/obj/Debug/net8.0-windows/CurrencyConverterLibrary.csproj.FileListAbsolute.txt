@@ -1,0 +1,11 @@
+F:\qoniac_task\CurrencynameConverter\CurrencyConverterLibrary\bin\Debug\net8.0-windows\CurrencyConverterLibrary.deps.json
+F:\qoniac_task\CurrencynameConverter\CurrencyConverterLibrary\bin\Debug\net8.0-windows\CurrencyConverterLibrary.dll
+F:\qoniac_task\CurrencynameConverter\CurrencyConverterLibrary\bin\Debug\net8.0-windows\CurrencyConverterLibrary.pdb
+F:\qoniac_task\CurrencynameConverter\CurrencyConverterLibrary\obj\Debug\net8.0-windows\CurrencyConverterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\qoniac_task\CurrencynameConverter\CurrencyConverterLibrary\obj\Debug\net8.0-windows\CurrencyConverterLibrary.AssemblyInfoInputs.cache
+F:\qoniac_task\CurrencynameConverter\CurrencyConverterLibrary\obj\Debug\net8.0-windows\CurrencyConverterLibrary.AssemblyInfo.cs
+F:\qoniac_task\CurrencynameConverter\CurrencyConverterLibrary\obj\Debug\net8.0-windows\CurrencyConverterLibrary.csproj.CoreCompileInputs.cache
+F:\qoniac_task\CurrencynameConverter\CurrencyConverterLibrary\obj\Debug\net8.0-windows\CurrencyConverterLibrary.dll
+F:\qoniac_task\CurrencynameConverter\CurrencyConverterLibrary\obj\Debug\net8.0-windows\refint\CurrencyConverterLibrary.dll
+F:\qoniac_task\CurrencynameConverter\CurrencyConverterLibrary\obj\Debug\net8.0-windows\CurrencyConverterLibrary.pdb
+F:\qoniac_task\CurrencynameConverter\CurrencyConverterLibrary\obj\Debug\net8.0-windows\ref\CurrencyConverterLibrary.dll

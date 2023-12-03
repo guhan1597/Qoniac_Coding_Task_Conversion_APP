@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\qoniac_task\\CurrencynameConverter\\CurrencynameConverter\\CurrencynameConverter.csproj": {}
+  },
+  "projects": {
+    "F:\\Qoniac_Coding_task\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Qoniac_Coding_task\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
+        "projectName": "CurrencyConverterAPI",
+        "projectPath": "F:\\Qoniac_Coding_task\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj",
+        "packagesPath": "C:\\Users\\kanna\\.nuget\\packages\\",
+        "outputPath": "F:\\Qoniac_Coding_task\\CurrencyConverterAPI\\CurrencyConverterAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\qoniac_task\\CurrencynameConverter\\CurrencyConverterLibrary\\CurrencyConverterLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\qoniac_task\\CurrencynameConverter\\CurrencyConverterLibrary\\CurrencyConverterLibrary.csproj",
+        "projectName": "CurrencyConverterLibrary",
+        "projectPath": "F:\\qoniac_task\\CurrencynameConverter\\CurrencyConverterLibrary\\CurrencyConverterLibrary.csproj",
+        "packagesPath": "C:\\Users\\kanna\\.nuget\\packages\\",
+        "outputPath": "F:\\qoniac_task\\CurrencynameConverter\\CurrencyConverterLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\qoniac_task\\CurrencynameConverter\\CurrencynameConverter\\CurrencynameConverter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\qoniac_task\\CurrencynameConverter\\CurrencynameConverter\\CurrencynameConverter.csproj",
+        "projectName": "CurrencynameConverter",
+        "projectPath": "F:\\qoniac_task\\CurrencynameConverter\\CurrencynameConverter\\CurrencynameConverter.csproj",
+        "packagesPath": "C:\\Users\\kanna\\.nuget\\packages\\",
+        "outputPath": "F:\\qoniac_task\\CurrencynameConverter\\CurrencynameConverter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "F:\\Qoniac_Coding_task\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj": {
+                "projectPath": "F:\\Qoniac_Coding_task\\CurrencyConverterAPI\\CurrencyConverterAPI\\CurrencyConverterAPI.csproj"
+              },
+              "F:\\qoniac_task\\CurrencynameConverter\\CurrencyConverterLibrary\\CurrencyConverterLibrary.csproj": {
+                "projectPath": "F:\\qoniac_task\\CurrencynameConverter\\CurrencyConverterLibrary\\CurrencyConverterLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

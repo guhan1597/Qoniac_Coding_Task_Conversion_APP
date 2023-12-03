@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CurrencynameConverter</id>
+    <version>1.0.0</version>
+    <authors>CurrencynameConverter</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="CurrencyConverterAPI" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="CurrencyConverterLibrary" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="9.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="F:\qoniac_task\CurrencynameConverter\CurrencynameConverter\bin\Debug\net8.0-windows\CurrencynameConverter.runtimeconfig.json" target="lib\net8.0-windows7.0\CurrencynameConverter.runtimeconfig.json" />
+    <file src="F:\qoniac_task\CurrencynameConverter\CurrencynameConverter\bin\Debug\net8.0-windows\CurrencynameConverter.dll" target="lib\net8.0-windows7.0\CurrencynameConverter.dll" />
+  </files>
+</package>
