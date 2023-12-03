@@ -8,7 +8,7 @@ namespace CurrencyConverterDesktop
 {
     public partial class MainWindow : Window
     {
-        private const string ApiBaseUrl = "https://localhost:7273"; // Update with your API URL
+        private const string ApiBaseUrl = "https://localhost:7273";
 
         public MainWindow()
         {
@@ -34,12 +34,12 @@ namespace CurrencyConverterDesktop
             {
                 using (HttpClient client = new HttpClient())
                 {
-                    // Send a GET request to the CurrencyController in your API
+                    
                     HttpResponseMessage response = await client.GetAsync($"{ApiBaseUrl}/api/currency/{amount}");
 
                     if (response.IsSuccessStatusCode)
                     {
-                        // Read and deserialize the response content
+                        
                         string content = await response.Content.ReadAsStringAsync();
                         return JsonConvert.DeserializeObject<string>(content);
                     }
